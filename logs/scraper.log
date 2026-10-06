@@ -1,0 +1,381 @@
+2026-10-06 16:24:04,426 INFO BooksScraper: Books page 1: https://books.toscrape.com/
+2026-10-06 16:24:04,426 INFO BooksScraper: Requesting https://books.toscrape.com/
+2026-10-06 16:24:06,526 INFO BooksScraper: Books page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 16:24:06,526 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 16:24:07,548 INFO BooksScraper: Books page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 16:24:07,548 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 16:24:08,572 INFO BooksScraper: Books page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 16:24:08,572 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 16:24:09,596 INFO BooksScraper: Books page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 16:24:09,596 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 16:24:10,620 INFO BooksScraper: Books page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 16:24:10,620 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 16:24:11,640 INFO BooksScraper: Books page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 16:24:11,640 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 16:24:12,415 INFO BooksScraper: Books page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 16:24:12,415 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 16:24:13,435 INFO BooksScraper: Books page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 16:24:13,435 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 16:24:14,212 INFO BooksScraper: Books page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 16:24:14,212 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 16:24:15,250 INFO BooksScraper: Books page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 16:24:15,250 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 16:24:16,275 INFO BooksScraper: Books page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 16:24:16,275 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 16:24:17,059 INFO BooksScraper: Books page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 16:24:17,059 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 16:24:17,833 INFO BooksScraper: Books page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 16:24:17,833 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 16:24:18,632 INFO BooksScraper: Books page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 16:24:18,632 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 16:24:19,408 INFO BooksScraper: Books page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 16:24:19,408 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 16:24:20,428 INFO BooksScraper: Books page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 16:24:20,429 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 16:24:21,454 INFO BooksScraper: Books page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 16:24:21,454 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 16:24:22,226 INFO BooksScraper: Books page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 16:24:22,226 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 16:24:22,998 INFO BooksScraper: Books page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 16:24:22,998 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 16:24:24,021 INFO BooksScraper: Books page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 16:24:24,021 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 16:24:24,793 INFO BooksScraper: Books page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 16:24:24,794 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 16:24:25,818 INFO BooksScraper: Books page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 16:24:25,818 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 16:24:26,596 INFO BooksScraper: Books page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 16:24:26,596 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 16:24:27,369 INFO BooksScraper: Books page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 16:24:27,369 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 16:24:28,398 INFO BooksScraper: Books page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 16:24:28,398 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 16:24:29,169 INFO BooksScraper: Books page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 16:24:29,169 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 16:24:30,193 INFO BooksScraper: Books page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 16:24:30,193 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 16:24:30,964 INFO BooksScraper: Books page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 16:24:30,964 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 16:24:31,737 INFO BooksScraper: Books page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 16:24:31,737 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 16:24:32,763 INFO BooksScraper: Books page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 16:24:32,763 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 16:24:33,784 INFO BooksScraper: Books page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 16:24:33,784 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 16:24:34,811 INFO BooksScraper: Books page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 16:24:34,811 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 16:24:35,834 INFO BooksScraper: Books page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 16:24:35,834 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 16:24:36,859 INFO BooksScraper: Books page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 16:24:36,860 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 16:24:37,881 INFO BooksScraper: Books page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 16:24:37,881 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 16:24:38,660 INFO BooksScraper: Books page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 16:24:38,660 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 16:24:39,441 INFO BooksScraper: Books page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 16:24:39,441 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 16:24:40,463 INFO BooksScraper: Books page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 16:24:40,463 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 16:24:41,278 INFO BooksScraper: Books page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 16:24:41,280 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 16:24:42,052 INFO BooksScraper: Books page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 16:24:42,052 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 16:24:43,073 INFO BooksScraper: Books page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 16:24:43,073 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 16:24:43,846 INFO BooksScraper: Books page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 16:24:43,847 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 16:24:44,776 INFO BooksScraper: Books page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 16:24:44,776 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 16:24:45,795 INFO BooksScraper: Books page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 16:24:45,795 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 16:24:46,816 INFO BooksScraper: Books page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 16:24:46,816 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 16:24:47,840 INFO BooksScraper: Books page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 16:24:47,840 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 16:24:48,860 INFO BooksScraper: Books page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 16:24:48,860 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 16:24:49,883 INFO BooksScraper: Books page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 16:24:49,884 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 16:24:50,902 INFO BooksScraper: Books page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 16:24:50,903 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 16:24:51,935 INFO QuotesScraper: Quotes page 1: https://quotes.toscrape.com/
+2026-10-06 16:24:51,936 INFO QuotesScraper: Requesting https://quotes.toscrape.com/
+2026-10-06 16:24:53,693 INFO QuotesScraper: Quotes page 2: https://quotes.toscrape.com/page/2/
+2026-10-06 16:24:53,693 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/2/
+2026-10-06 16:24:54,701 INFO QuotesScraper: Quotes page 3: https://quotes.toscrape.com/page/3/
+2026-10-06 16:24:54,701 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/3/
+2026-10-06 16:24:55,460 INFO QuotesScraper: Quotes page 4: https://quotes.toscrape.com/page/4/
+2026-10-06 16:24:55,460 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/4/
+2026-10-06 16:24:56,219 INFO QuotesScraper: Quotes page 5: https://quotes.toscrape.com/page/5/
+2026-10-06 16:24:56,219 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/5/
+2026-10-06 16:24:56,981 INFO QuotesScraper: Quotes page 6: https://quotes.toscrape.com/page/6/
+2026-10-06 16:24:56,981 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/6/
+2026-10-06 16:24:57,742 INFO QuotesScraper: Quotes page 7: https://quotes.toscrape.com/page/7/
+2026-10-06 16:24:57,742 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/7/
+2026-10-06 16:24:58,506 INFO QuotesScraper: Quotes page 8: https://quotes.toscrape.com/page/8/
+2026-10-06 16:24:58,507 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/8/
+2026-10-06 16:24:59,268 INFO QuotesScraper: Quotes page 9: https://quotes.toscrape.com/page/9/
+2026-10-06 16:24:59,268 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/9/
+2026-10-06 16:25:00,029 INFO QuotesScraper: Quotes page 10: https://quotes.toscrape.com/page/10/
+2026-10-06 16:25:00,029 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/10/
+2026-10-06 16:25:00,808 INFO main: Finished: 1099 unique records, 1 duplicates
+2026-10-06 17:27:46,402 INFO BooksScraper: Books page 1: https://books.toscrape.com/
+2026-10-06 17:27:46,402 INFO BooksScraper: Requesting https://books.toscrape.com/
+2026-10-06 17:27:48,461 INFO BooksScraper: Books page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 17:27:48,462 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 17:27:49,482 INFO BooksScraper: Books page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 17:27:49,482 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 17:27:50,503 INFO BooksScraper: Books page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 17:27:50,503 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 17:27:51,529 INFO BooksScraper: Books page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 17:27:51,529 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 17:27:52,554 INFO BooksScraper: Books page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 17:27:52,554 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 17:27:53,576 INFO BooksScraper: Books page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 17:27:53,576 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 17:27:54,604 INFO BooksScraper: Books page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 17:27:54,605 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 17:27:55,621 INFO BooksScraper: Books page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 17:27:55,622 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 17:27:56,637 INFO BooksScraper: Books page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 17:27:56,637 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 17:27:57,659 INFO BooksScraper: Books page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 17:27:57,659 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 17:27:58,430 INFO BooksScraper: Books page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 17:27:58,431 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 17:27:59,451 INFO BooksScraper: Books page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 17:27:59,451 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 17:28:00,469 INFO BooksScraper: Books page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 17:28:00,469 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 17:28:01,501 INFO BooksScraper: Books page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 17:28:01,502 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 17:28:02,522 INFO BooksScraper: Books page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 17:28:02,522 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 17:28:03,302 INFO BooksScraper: Books page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 17:28:03,303 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 17:28:04,328 INFO BooksScraper: Books page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 17:28:04,328 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 17:28:05,114 INFO BooksScraper: Books page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 17:28:05,114 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 17:28:06,135 INFO BooksScraper: Books page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 17:28:06,135 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 17:28:07,156 INFO BooksScraper: Books page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 17:28:07,156 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 17:28:07,931 INFO BooksScraper: Books page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 17:28:07,931 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 17:28:08,949 INFO BooksScraper: Books page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 17:28:08,949 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 17:28:09,967 INFO BooksScraper: Books page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 17:28:09,967 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 17:28:10,986 INFO BooksScraper: Books page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 17:28:10,986 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 17:28:12,005 INFO BooksScraper: Books page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 17:28:12,005 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 17:28:12,779 INFO BooksScraper: Books page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 17:28:12,779 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 17:28:13,557 INFO BooksScraper: Books page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 17:28:13,558 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 17:28:14,577 INFO BooksScraper: Books page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 17:28:14,578 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 17:28:15,352 INFO BooksScraper: Books page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 17:28:15,352 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 17:28:16,121 INFO BooksScraper: Books page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 17:28:16,122 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 17:28:17,138 INFO BooksScraper: Books page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 17:28:17,138 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 17:28:17,921 INFO BooksScraper: Books page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 17:28:17,921 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 17:28:18,691 INFO BooksScraper: Books page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 17:28:18,691 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 17:28:19,708 INFO BooksScraper: Books page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 17:28:19,708 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 17:28:20,480 INFO BooksScraper: Books page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 17:28:20,481 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 17:28:21,499 INFO BooksScraper: Books page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 17:28:21,499 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 17:28:22,270 INFO BooksScraper: Books page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 17:28:22,271 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 17:28:23,338 INFO BooksScraper: Books page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 17:28:23,338 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 17:28:24,357 INFO BooksScraper: Books page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 17:28:24,357 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 17:28:25,377 INFO BooksScraper: Books page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 17:28:25,377 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 17:28:26,394 INFO BooksScraper: Books page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 17:28:26,394 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 17:28:27,410 INFO BooksScraper: Books page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 17:28:27,411 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 17:28:28,184 INFO BooksScraper: Books page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 17:28:28,184 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 17:28:28,956 INFO BooksScraper: Books page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 17:28:28,956 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 17:28:29,729 INFO BooksScraper: Books page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 17:28:29,729 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 17:28:30,748 INFO BooksScraper: Books page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 17:28:30,748 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 17:28:31,525 INFO BooksScraper: Books page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 17:28:31,525 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 17:28:32,301 INFO BooksScraper: Books page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 17:28:32,301 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 17:28:33,077 INFO BooksScraper: Books page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 17:28:33,077 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 17:28:34,106 INFO QuotesScraper: Quotes page 1: https://quotes.toscrape.com/
+2026-10-06 17:28:34,107 INFO QuotesScraper: Requesting https://quotes.toscrape.com/
+2026-10-06 17:28:35,872 INFO QuotesScraper: Quotes page 2: https://quotes.toscrape.com/page/2/
+2026-10-06 17:28:35,872 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/2/
+2026-10-06 17:28:36,884 INFO QuotesScraper: Quotes page 3: https://quotes.toscrape.com/page/3/
+2026-10-06 17:28:36,884 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/3/
+2026-10-06 17:28:37,643 INFO QuotesScraper: Quotes page 4: https://quotes.toscrape.com/page/4/
+2026-10-06 17:28:37,644 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/4/
+2026-10-06 17:28:38,404 INFO QuotesScraper: Quotes page 5: https://quotes.toscrape.com/page/5/
+2026-10-06 17:28:38,404 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/5/
+2026-10-06 17:28:39,167 INFO QuotesScraper: Quotes page 6: https://quotes.toscrape.com/page/6/
+2026-10-06 17:28:39,167 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/6/
+2026-10-06 17:28:39,928 INFO QuotesScraper: Quotes page 7: https://quotes.toscrape.com/page/7/
+2026-10-06 17:28:39,928 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/7/
+2026-10-06 17:28:40,689 INFO QuotesScraper: Quotes page 8: https://quotes.toscrape.com/page/8/
+2026-10-06 17:28:40,689 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/8/
+2026-10-06 17:28:41,454 INFO QuotesScraper: Quotes page 9: https://quotes.toscrape.com/page/9/
+2026-10-06 17:28:41,455 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/9/
+2026-10-06 17:28:42,216 INFO QuotesScraper: Quotes page 10: https://quotes.toscrape.com/page/10/
+2026-10-06 17:28:42,216 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/10/
+2026-10-06 17:28:43,198 ERROR main: MongoDB Atlas write failed; local output files are still available
+Traceback (most recent call last):
+  File "C:\Users\Mohammed Sajid Pasha\Documents\Codex\2026-10-06\https-dour-blade-da4-notion-site\outputs\scraping_assignment\main.py", line 110, in run
+    stored = write_to_atlas(unique)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mohammed Sajid Pasha\Documents\Codex\2026-10-06\https-dour-blade-da4-notion-site\outputs\scraping_assignment\main.py", line 57, in write_to_atlas
+    with MongoClient(uri, serverSelectionTimeoutMS=10000) as client:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mohammed Sajid Pasha\Documents\Codex\2026-10-06\https-dour-blade-da4-notion-site\work\assignment-venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 834, in __init__
+    res = _validate_uri(
+          ^^^^^^^^^^^^^^
+  File "C:\Users\Mohammed Sajid Pasha\Documents\Codex\2026-10-06\https-dour-blade-da4-notion-site\work\assignment-venv\Lib\site-packages\pymongo\uri_parser_shared.py", line 585, in _validate_uri
+    user, passwd = parse_userinfo(userinfo)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mohammed Sajid Pasha\Documents\Codex\2026-10-06\https-dour-blade-da4-notion-site\work\assignment-venv\Lib\site-packages\pymongo\uri_parser_shared.py", line 145, in parse_userinfo
+    raise InvalidURI(
+pymongo.errors.InvalidURI: Username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2026-10-06 17:28:43,200 INFO main: Finished: 1099 unique records, 1 duplicates
+2026-10-06 17:41:07,667 INFO BooksScraper: Books page 1: https://books.toscrape.com/
+2026-10-06 17:41:07,667 INFO BooksScraper: Requesting https://books.toscrape.com/
+2026-10-06 17:41:09,759 INFO BooksScraper: Books page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 17:41:09,760 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 17:41:10,781 INFO BooksScraper: Books page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 17:41:10,781 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 17:41:11,805 INFO BooksScraper: Books page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 17:41:11,805 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 17:41:12,838 INFO BooksScraper: Books page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 17:41:12,838 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 17:41:13,880 INFO BooksScraper: Books page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 17:41:13,880 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 17:41:14,945 INFO BooksScraper: Books page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 17:41:14,945 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 17:41:16,056 INFO BooksScraper: Books page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 17:41:16,057 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 17:41:17,094 INFO BooksScraper: Books page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 17:41:17,095 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 17:41:17,890 INFO BooksScraper: Books page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 17:41:17,891 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 17:41:18,935 INFO BooksScraper: Books page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 17:41:18,935 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 17:41:19,710 INFO BooksScraper: Books page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 17:41:19,710 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 17:41:20,731 INFO BooksScraper: Books page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 17:41:20,731 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 17:41:21,760 INFO BooksScraper: Books page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 17:41:21,761 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 17:41:22,532 INFO BooksScraper: Books page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 17:41:22,532 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 17:41:23,578 INFO BooksScraper: Books page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 17:41:23,579 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 17:41:24,367 INFO BooksScraper: Books page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 17:41:24,367 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 17:41:25,385 INFO BooksScraper: Books page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 17:41:25,385 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 17:41:26,157 INFO BooksScraper: Books page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 17:41:26,157 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 17:41:27,180 INFO BooksScraper: Books page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 17:41:27,180 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 17:41:28,197 INFO BooksScraper: Books page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 17:41:28,197 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 17:41:28,971 INFO BooksScraper: Books page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 17:41:28,971 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 17:41:29,990 INFO BooksScraper: Books page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 17:41:29,990 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 17:41:31,010 INFO BooksScraper: Books page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 17:41:31,010 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 17:41:31,784 INFO BooksScraper: Books page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 17:41:31,784 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 17:41:32,806 INFO BooksScraper: Books page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 17:41:32,807 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 17:41:33,579 INFO BooksScraper: Books page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 17:41:33,580 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 17:41:34,607 INFO BooksScraper: Books page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 17:41:34,607 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 17:41:35,625 INFO BooksScraper: Books page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 17:41:35,625 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 17:41:36,403 INFO BooksScraper: Books page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 17:41:36,404 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 17:41:37,473 INFO BooksScraper: Books page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 17:41:37,474 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 17:41:38,501 INFO BooksScraper: Books page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 17:41:38,501 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 17:41:39,269 INFO BooksScraper: Books page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 17:41:39,270 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 17:41:40,055 INFO BooksScraper: Books page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 17:41:40,055 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 17:41:40,832 INFO BooksScraper: Books page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 17:41:40,833 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 17:41:41,870 INFO BooksScraper: Books page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 17:41:41,871 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 17:41:42,668 INFO BooksScraper: Books page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 17:41:42,668 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 17:41:43,710 INFO BooksScraper: Books page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 17:41:43,711 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 17:41:44,485 INFO BooksScraper: Books page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 17:41:44,486 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 17:41:45,266 INFO BooksScraper: Books page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 17:41:45,266 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 17:41:46,040 INFO BooksScraper: Books page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 17:41:46,041 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 17:41:46,815 INFO BooksScraper: Books page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 17:41:46,815 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 17:41:47,587 INFO BooksScraper: Books page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 17:41:47,587 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 17:41:48,359 INFO BooksScraper: Books page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 17:41:48,359 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 17:41:49,136 INFO BooksScraper: Books page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 17:41:49,136 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 17:41:50,168 INFO BooksScraper: Books page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 17:41:50,169 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 17:41:50,943 INFO BooksScraper: Books page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 17:41:50,943 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 17:41:51,963 INFO BooksScraper: Books page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 17:41:51,963 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 17:41:52,983 INFO BooksScraper: Books page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 17:41:52,983 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 17:41:53,756 INFO BooksScraper: Books page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 17:41:53,757 INFO BooksScraper: Requesting https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 17:41:54,540 INFO QuotesScraper: Quotes page 1: https://quotes.toscrape.com/
+2026-10-06 17:41:54,541 INFO QuotesScraper: Requesting https://quotes.toscrape.com/
+2026-10-06 17:41:56,312 INFO QuotesScraper: Quotes page 2: https://quotes.toscrape.com/page/2/
+2026-10-06 17:41:56,313 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/2/
+2026-10-06 17:41:57,325 INFO QuotesScraper: Quotes page 3: https://quotes.toscrape.com/page/3/
+2026-10-06 17:41:57,326 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/3/
+2026-10-06 17:41:58,090 INFO QuotesScraper: Quotes page 4: https://quotes.toscrape.com/page/4/
+2026-10-06 17:41:58,090 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/4/
+2026-10-06 17:41:58,855 INFO QuotesScraper: Quotes page 5: https://quotes.toscrape.com/page/5/
+2026-10-06 17:41:58,856 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/5/
+2026-10-06 17:41:59,620 INFO QuotesScraper: Quotes page 6: https://quotes.toscrape.com/page/6/
+2026-10-06 17:41:59,620 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/6/
+2026-10-06 17:42:00,383 INFO QuotesScraper: Quotes page 7: https://quotes.toscrape.com/page/7/
+2026-10-06 17:42:00,385 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/7/
+2026-10-06 17:42:01,155 INFO QuotesScraper: Quotes page 8: https://quotes.toscrape.com/page/8/
+2026-10-06 17:42:01,155 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/8/
+2026-10-06 17:42:01,921 INFO QuotesScraper: Quotes page 9: https://quotes.toscrape.com/page/9/
+2026-10-06 17:42:01,922 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/9/
+2026-10-06 17:42:02,686 INFO QuotesScraper: Quotes page 10: https://quotes.toscrape.com/page/10/
+2026-10-06 17:42:02,686 INFO QuotesScraper: Requesting https://quotes.toscrape.com/page/10/
+2026-10-06 17:42:07,003 INFO main: Upserted or refreshed 1099 records in MongoDB Atlas
+2026-10-06 17:42:07,003 INFO main: Finished: 1099 unique records, 1 duplicates
